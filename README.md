@@ -5,7 +5,7 @@
 Hi, I'm **Liel Marx Callaf**, a passionate software developer and game designer. I'm currently pursuing a **B.Sc in Computer Science** at The Hebrew University of Jerusalem, with a **minor in Game Design and Development** at Bezalel Academy. I specialize in **Unity**, **C#**, and **C++**, with a strong background in algorithms, data structures, and game development.
 
 - 💻 Currently working on a **dynamic Tic Tac Toe variant** in Java.
-- 🎮 Previously worked on **Unity game development** including projects like a **Legend of Zelda** remake and **Wizard Blitz**.
+- 🎮 Previously worked on **Unity game development** including projects like a **Legend of Zelda** remake and **HAYJACKED**.
 - 🧑‍💻 My goal is to create engaging and optimized software and games for multiple platforms.
 
 ## Skills
