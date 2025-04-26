@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm **Liel Callaf**, a passionate software developer and game designer. I'm currently pursuing a **B.Sc in Computer Science** at The Hebrew University of Jerusalem, with a **minor in Game Design and Development** at Bezalel Academy. I specialize in **Unity**, **C#**, and **C++**, with a strong background in algorithms, data structures, and game development.
+Hi, I'm **Liel Marx Callaf**, a passionate software developer and game designer. I'm currently pursuing a **B.Sc in Computer Science** at The Hebrew University of Jerusalem, with a **minor in Game Design and Development** at Bezalel Academy. I specialize in **Unity**, **C#**, and **C++**, with a strong background in algorithms, data structures, and game development.
 
 - 💻 Currently working on a **dynamic Tic Tac Toe variant** in Java.
 - 🎮 Previously worked on **Unity game development** including projects like a **Legend of Zelda** remake and **Wizard Blitz**.
@@ -27,9 +27,8 @@ A **Unity**-based remake of the classic **Legend of Zelda** game, with a focus o
 
 ## Let's Connect
 
-- LinkedIn: [Liel Callaf](https://www.linkedin.com/in/yourlinkedin)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Portfolio: [yourportfolio.com](http://yourportfolio.com)
+- LinkedIn: [Liel Marx Callaf](https://www.linkedin.com/in/yourlinkedin)
+- itch.io: [Liel Marx Callaf](https://liel-marx-callaf.itch.io/)
 
 Feel free to explore my repositories, fork them, or contribute! 😊
 
