@@ -23,7 +23,7 @@ A **Unity**-based remake of the classic **Legend of Zelda** game, with a focus o
 
 ## GitHub Stats
 
-![Liel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liel-marx-callaf&show_icons=true&count_private=true&hide_title=true&hide=prs)
+![Liel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liel-marx-callaf&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
 
 ## Let's Connect
 
